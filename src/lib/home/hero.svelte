@@ -1,0 +1,63 @@
+<div class="col-12 col-lg-5">
+	<div class="pt-lg-20">
+		<h1 class="mb-0 lh-sm mb-7 text-white">
+			<span>Forais</span>
+			<span class="text-danger">medievais</span>
+			<span>portugueses</span>
+		</h1>
+		<p class="mb-0 lh-lg mw-md-md mb-6 text-muted">
+			Pstls. Kit uses attractive colors and modern typography to make you look good, no matter what
+			business you’re in.
+		</p>
+		<a class="btn btn-danger-dark d-block d-md-inline-block" href="#">Ler Mais</a>
+	</div>
+</div>
+<div
+	class="col-12 col-lg-7 mt-20 mt-lg-0 d-md-flex flex-md-row justify-content-md-around justify-content-lg-end"
+>
+	<div class="me-lg-8">
+		<div class="d-none d-xl-block col-12 d-flex justify-content-center">
+			<div class="bg-dark p-1 position-absolute top-0 mt-n32">
+				<div class="p-32" />
+			</div>
+		</div>
+		<img
+			class="img-fluid mx-auto d-block"
+			src="pstls-assets/images/headers/header-5-building.jpg"
+			alt=""
+		/>
+		<img
+			class="img-fluid mx-auto d-block mt-8"
+			src="pstls-assets/images/headers/header-5-building-2.jpg"
+			alt=""
+		/>
+		<div
+			class="d-none d-xl-block d-flex justify-content-center bg-dark p-1 mt-7 position-absolute bottom-0 mb-n52"
+		>
+			<div class="p-32" />
+		</div>
+	</div>
+	<div>
+		<div
+			class="d-none d-xl-block d-flex justify-content-center bg-dark p-1 position-absolute top-0 mt-n32"
+			style="z-index: -1;"
+		>
+			<div class="p-32" />
+		</div>
+		<img
+			class="img-fluid mx-auto d-block mt-8 mt-md-0"
+			src="pstls-assets/images/headers/header-5-building-3.jpg"
+			alt=""
+		/>
+		<img
+			class="img-fluid mx-auto d-block mt-8"
+			src="pstls-assets/images/headers/header-5-building-4.jpg"
+			alt=""
+		/>
+		<div
+			class="d-none d-xl-block d-flex justify-content-center bg-dark p-1 mt-8 position-absolute bottom-0 mb-n52"
+		>
+			<div class="p-32" />
+		</div>
+	</div>
+</div>

@@ -1,9 +1,9 @@
-<section class="pt-8 pt-md-24 pb-24 bg-white">
+<section class="pt-8 pt-md-24 pb-24 bg-white" id="about">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="order-1 col-12 col-md-6">
 				<div class="mt-16 mt-md-0 mw-sm mw-md-lg mx-auto me-xl-0 ms-xl-auto">
-					<h2 class="mb-9 display-5 lh-sm font-heading">Quem somos e o que fazemos?</h2>
+					<h2 class="mb-9 display-5 lh-sm font-heading">Dados gerais do projeto</h2>
 					<p class="mb-14 mw-md-md lh-lg">
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla blandit pellentesque
 						ipsum sit amet cursus.

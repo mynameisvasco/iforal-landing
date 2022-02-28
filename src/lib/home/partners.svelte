@@ -1,7 +1,7 @@
 <section class="position-relative">
 	<div class="pt-12 pb-36 bg-dark">
 		<div class="container">
-			<p class="mb-20 lh-lg text-center text-muted">Parceiros institucionais</p>
+			<p class="mb-12 lh-lg text-center text-muted">Parceiros institucionais</p>
 			<div class="row align-items-center">
 				<div class="col-12 text-center mb-14 mb-md-0">
 					<img class="img-fluid d-block mx-auto px-24" src="partners.png" alt="" />

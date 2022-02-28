@@ -1,3 +1,7 @@
+<script>
+	import NavbarMobileItem from './navbar-mobile-item.svelte';
+</script>
+
 <div
 	class="d-none navbar-menu position-fixed top-0 start-0 bottom-0 w-75 mw-sm"
 	style="z-index: 9999;"
@@ -31,9 +35,10 @@
 		</div>
 		<div class="my-auto">
 			<ul class="nav flex-column">
-				<li class="nav-item py-3"><a class="nav-link text-danger" href="#">Home</a></li>
-				<li class="nav-item py-3"><a class="nav-link text-white" href="#">Equipa</a></li>
-				<li class="nav-item py-3"><a class="nav-link text-white" href="#">Publicações</a></li>
+				<NavbarMobileItem href="/">Home</NavbarMobileItem>
+				<NavbarMobileItem href="/team">Equipa</NavbarMobileItem>
+				<NavbarMobileItem href="/news">Notícias</NavbarMobileItem>
+				<NavbarMobileItem href="/posts">Publicações</NavbarMobileItem>
 			</ul>
 		</div>
 	</nav>

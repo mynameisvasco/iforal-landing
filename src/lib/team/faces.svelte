@@ -1,3 +1,7 @@
+<script>
+	import Face from './face.svelte';
+</script>
+
 <section class="py-24 bg-white overflow-hidden">
 	<div class="position-relative container">
 		<img
@@ -18,101 +22,45 @@
 				</div>
 			</div>
 			<div class="row mt-20 mt-xl-24">
-				<div class="col-12 col-md-6 col-lg-4 mb-14">
-					<div class="mx-auto mw-xs px-7">
-						<div class="position-relative mb-12">
-							<img
-								class="img-fluid position-relative"
-								src="pstls-assets/images/teams/team-1-photo.jpg"
-								style="z-index: 1"
-								alt=""
-							/>
-							<div
-								class="bg-primary-light position-absolute start-0 top-0 w-100 h-100 mt-6 ms-n6"
-							/>
-						</div>
-						<h5 class="mb-0 fw-bold lh-lg font-heading">Sophie Kowalsky</h5>
-						<span class="text-muted small">CTO at Shuffle</span>
-					</div>
+				<div class="col-6 col-md-4 col-lg-3 mb-14">
+					<Face description="Lorem Ipsum" image="pstls-assets/images/teams/team-1-photo.jpg">
+						Sophie Kowalsky
+					</Face>
 				</div>
-				<div class="col-12 col-md-6 col-lg-4 mb-14">
-					<div class="mx-auto mw-xs px-7">
-						<div class="position-relative mb-12">
-							<img
-								class="img-fluid position-relative"
-								src="pstls-assets/images/teams/team-1-photo-2.jpg"
-								style="z-index: 1"
-								alt=""
-							/>
-							<div class="bg-danger-light position-absolute start-0 top-0 w-100 h-100 mt-n6 ms-6" />
-						</div>
-						<h5 class="mb-0 fw-bold lh-lg">Sophie Kowalsky</h5>
-						<span class="text-muted small">CTO at Shuffle</span>
-					</div>
+				<div class="col-6 col-md-4 col-lg-3 mb-14">
+					<Face description="Lorem Ipsum" image="pstls-assets/images/teams/team-1-photo.jpg">
+						Sophie Kowalsky
+					</Face>
 				</div>
-				<div class="col-12 col-md-6 col-lg-4 mb-14 mb-lg-0">
-					<div class="mx-auto mw-xs px-7">
-						<div class="position-relative mb-12">
-							<img
-								class="img-fluid position-relative"
-								src="pstls-assets/images/teams/team-1-photo-3.jpg"
-								style="z-index: 1"
-								alt=""
-							/>
-							<div class="bg-success-light position-absolute start-0 top-0 w-100 h-100 mt-6 ms-6" />
-						</div>
-						<h5 class="mb-0 fw-bold lh-lg">Sophie Kowalsky</h5>
-						<span class="text-muted small">CTO at Shuffle</span>
-					</div>
+				<div class="col-6 col-md-4 col-lg-3 mb-14">
+					<Face description="Lorem Ipsum" image="pstls-assets/images/teams/team-1-photo.jpg">
+						Sophie Kowalsky
+					</Face>
 				</div>
-				<div class="col-12 col-md-6 col-lg-4 mb-14 mb-lg-0">
-					<div class="mx-auto mw-xs px-7">
-						<div class="position-relative mb-12">
-							<img
-								class="img-fluid position-relative"
-								src="pstls-assets/images/teams/team-1-photo-4.jpg"
-								style="z-index: 1"
-								alt=""
-							/>
-							<div
-								class="bg-primary-light position-absolute start-0 top-0 w-100 h-100 mt-n6 ms-6"
-							/>
-						</div>
-						<h5 class="mb-0 fw-bold lh-lg">Sophie Kowalsky</h5>
-						<span class="text-muted small">CTO at Shuffle</span>
-					</div>
+				<div class="col-6 col-md-4 col-lg-3 mb-14">
+					<Face description="Lorem Ipsum" image="pstls-assets/images/teams/team-1-photo.jpg">
+						Sophie Kowalsky
+					</Face>
 				</div>
-				<div class="col-12 col-md-6 col-lg-4 mb-14 mb-md-0">
-					<div class="mx-auto mw-xs px-7">
-						<div class="position-relative mb-12">
-							<img
-								class="img-fluid position-relative"
-								src="pstls-assets/images/teams/team-1-photo-5.jpg"
-								style="z-index: 1"
-								alt=""
-							/>
-							<div class="bg-danger-light position-absolute start-0 top-0 w-100 h-100 mt-6 ms-n6" />
-						</div>
-						<h5 class="mb-0 fw-bold lh-lg">Sophie Kowalsky</h5>
-						<span class="text-muted small">CTO at Shuffle</span>
-					</div>
+				<div class="col-6 col-md-4 col-lg-3 mb-14">
+					<Face description="Lorem Ipsum" image="pstls-assets/images/teams/team-1-photo.jpg">
+						Sophie Kowalsky
+					</Face>
 				</div>
-				<div class="col-12 col-md-6 col-lg-4">
-					<div class="mx-auto mw-xs px-7">
-						<div class="position-relative mb-12">
-							<img
-								class="img-fluid position-relative"
-								src="pstls-assets/images/teams/team-1-photo-6.jpg"
-								style="z-index: 1"
-								alt=""
-							/>
-							<div
-								class="bg-success-light position-absolute start-0 top-0 w-100 h-100 mt-n6 ms-n6"
-							/>
-						</div>
-						<h5 class="mb-0 fw-bold lh-lg">Sophie Kowalsky</h5>
-						<span class="text-muted small">CTO at Shuffle</span>
-					</div>
+				<div class="col-6 col-md-4 col-lg-3 mb-14">
+					<Face description="Lorem Ipsum" image="pstls-assets/images/teams/team-1-photo.jpg">
+						Sophie Kowalsky
+					</Face>
+				</div>
+				<div class="col-6 col-md-4 col-lg-3 mb-14">
+					<Face description="Lorem Ipsum" image="pstls-assets/images/teams/team-1-photo.jpg">
+						Sophie Kowalsky
+					</Face>
+				</div>
+				<div class="col-6 col-md-4 col-lg-3 mb-14">
+					<Face description="Lorem Ipsum" image="pstls-assets/images/teams/team-1-photo.jpg">
+						Sophie Kowalsky
+					</Face>
 				</div>
 			</div>
 		</div>

@@ -6,10 +6,9 @@
 			<span>portugueses</span>
 		</h1>
 		<p class="mb-0 lh-lg mw-md-md mb-6 text-muted">
-			Pstls. Kit uses attractive colors and modern typography to make you look good, no matter what
-			business you’re in.
+			Uma perspetiva histórica e linguística na era digital, PTDC/HAR-HIS/5065/2020 (2021-2024)
 		</p>
-		<a class="btn btn-danger-dark d-block d-md-inline-block" href="#">Ler Mais</a>
+		<a class="btn btn-danger-dark d-block d-md-inline-block" href="#about">Sobre o projeto</a>
 	</div>
 </div>
 <div

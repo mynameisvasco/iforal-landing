@@ -1,10 +1,11 @@
 <script>
-	import { page } from '$app/stores';
+	import NavbarItem from './navbar-item.svelte';
+	import NavbarLanguage from './navbar-language.svelte';
 </script>
 
 <nav class="navbar py-10 navbar-expand-lg navbar-dark bg-dark">
 	<div class="container">
-		<a class="navbar-brand" href="#">
+		<a class="navbar-brand" href="/">
 			<span class="text-white">iForal</span>
 		</a>
 		<button class="btn p-0 d-lg-none navbar-burger">
@@ -20,34 +21,16 @@
 		<div class="collapse navbar-collapse">
 			<ul class="navbar-nav ms-1 mb-2 mb-lg-0">
 				<li class="nav-item">
-					<a
-						class="nav-link "
-						class:text-danger={$page.url.pathname === '/'}
-						class:text-white={$page.url.pathname !== '/'}
-						href="/"
-					>
-						Home
-					</a>
+					<NavbarItem href="/">Home</NavbarItem>
 				</li>
 				<li class="nav-item">
-					<a
-						class="nav-link"
-						class:text-danger={$page.url.pathname === '/team'}
-						class:text-white={$page.url.pathname !== '/team'}
-						href="/team"
-					>
-						Equipa
-					</a>
+					<NavbarItem href="/team">Team</NavbarItem>
 				</li>
 				<li class="nav-item">
-					<a
-						class="nav-link"
-						class:text-danger={$page.url.pathname === '/posts'}
-						class:text-white={$page.url.pathname !== '/posts'}
-						href="/posts"
-					>
-						Publicações
-					</a>
+					<NavbarItem href="/news">Notícias</NavbarItem>
+				</li>
+				<li class="nav-item">
+					<NavbarItem href="/posts">Publicações</NavbarItem>
 				</li>
 			</ul>
 			<div class="ms-auto">
@@ -55,15 +38,15 @@
 					<input
 						style="z-index: 10;"
 						class="form-control text-white bg-transparent border-0"
-						type="search"
-						placeholder="Search"
-						aria-label="Search"
-						aria-describedby="search-addon"
+						placeholder="Pesquisar no site..."
 					/>
 					<button class="btn" type="button">
 						<img src="pstls-assets/images/navigations/search-light.svg" alt="" />
 					</button>
 				</div>
+			</div>
+			<div>
+				<NavbarLanguage />
 			</div>
 		</div>
 	</div>

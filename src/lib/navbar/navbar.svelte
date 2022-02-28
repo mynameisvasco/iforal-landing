@@ -24,7 +24,7 @@
 					<NavbarItem href="/">Home</NavbarItem>
 				</li>
 				<li class="nav-item">
-					<NavbarItem href="/team">Team</NavbarItem>
+					<NavbarItem href="/team">Equipa</NavbarItem>
 				</li>
 				<li class="nav-item">
 					<NavbarItem href="/news">Notícias</NavbarItem>

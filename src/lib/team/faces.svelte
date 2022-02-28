@@ -12,7 +12,7 @@
 		<div class="position-relative">
 			<div class="row align-items-md-center">
 				<div class="col-12 col-md-5 mb-6 mb-md-0">
-					<h1 class="mb-0 lh-sm font-heading">Team</h1>
+					<h1 class="mb-0 lh-sm font-heading">Equipa</h1>
 				</div>
 				<div class="col-12 col-md-7">
 					<p class="mb-0 lh-lg">

@@ -22,12 +22,14 @@
 		</div>
 		<img
 			class="img-fluid mx-auto d-block"
-			src="pstls-assets/images/headers/header-5-building.jpg"
+			style="max-width:400px;"
+			src="https://i.imgur.com/T0nHfe7.jpg"
 			alt=""
 		/>
 		<img
 			class="img-fluid mx-auto d-block mt-8"
-			src="pstls-assets/images/headers/header-5-building-2.jpg"
+			style="max-width: 300px"
+			src="https://i.imgur.com/VS8Ag9w.jpg"
 			alt=""
 		/>
 		<div
@@ -45,14 +47,10 @@
 		</div>
 		<img
 			class="img-fluid mx-auto d-block mt-8 mt-md-0"
-			src="pstls-assets/images/headers/header-5-building-3.jpg"
+			src="https://i.imgur.com/SBsMj44.jpg"
 			alt=""
 		/>
-		<img
-			class="img-fluid mx-auto d-block mt-8"
-			src="pstls-assets/images/headers/header-5-building-4.jpg"
-			alt=""
-		/>
+		<img class="img-fluid mx-auto d-block mt-8" src="https://i.imgur.com/PXX0f9u.jpg	" alt="" />
 		<div
 			class="d-none d-xl-block d-flex justify-content-center bg-dark p-1 mt-8 position-absolute bottom-0 mb-n52"
 		>

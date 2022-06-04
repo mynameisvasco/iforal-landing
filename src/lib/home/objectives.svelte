@@ -12,17 +12,8 @@
 						alt=""
 					/>
 					<p class="lh-lg ms-lg-8 mb-0 text-white">
-						Take care to develop resources continually and integrity them with previous projects.
-					</p>
-				</div>
-				<div class="d-lg-flex align-items-center mb-10">
-					<img
-						class="img-fluid mb-8 mb-lg-0"
-						src="pstls-assets/icons/features-3-filters-1.svg"
-						alt=""
-					/>
-					<p class="lh-lg ms-lg-8 mb-0 text-white">
-						Adapt Inform to your brand using the style guide
+						Edição crítica electrónica dos forais régios portugueses até 1279, e seus testemunhos
+						latinos e vernaculares até ao final do século XV
 					</p>
 				</div>
 				<div class="d-lg-flex align-items-center mb-10">
@@ -32,7 +23,27 @@
 						alt=""
 					/>
 					<p class="lh-lg ms-lg-8 mb-0 text-white">
-						Power your business with multiple CMS and Shuffle integrations
+						Análise histórica e linguística dos forais régios em torno de seis tópicos fundamentais:
+						i) Produção e agentes de escrita ii) Poderes em presença iii) Norma e quotidiano iiii)
+						Transmissão do texto vi) Do latim ao português vi) Desafio digital
+					</p>
+				</div>
+				<div class="d-lg-flex align-items-center mb-10">
+					<img
+						class="img-fluid mb-8 mb-lg-0"
+						src="pstls-assets/icons/features-2b-document-clean.svg"
+						alt=""
+					/>
+					<p class="lh-lg ms-lg-8 mb-0 text-white">Glossário de léxico latino e vernacular</p>
+				</div>
+				<div class="d-lg-flex align-items-center mb-10">
+					<img
+						class="img-fluid mb-8 mb-lg-0"
+						src="pstls-assets/icons/features-3-filters-1.svg"
+						alt=""
+					/>
+					<p class="lh-lg ms-lg-8 mb-0 text-white">
+						Ferramenta de transcrição automatizada para o português medieval
 					</p>
 				</div>
 			</div>

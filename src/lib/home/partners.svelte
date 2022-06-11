@@ -35,7 +35,7 @@
 							<img
 								class="img-fluid d-block "
 								style="width: 100%;"
-								src="https://i.imgur.com/z8ow2Hn.png"
+								src="https://i.imgur.com/Mtsj5q1.png"
 								alt=""
 							/>
 						</div>

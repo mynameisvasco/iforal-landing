@@ -3,10 +3,10 @@
 	import NavbarLanguage from './navbar-language.svelte';
 </script>
 
-<nav class="navbar py-10 navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar py-10 navbar-expand-lg navbar-dark bg-dark" style="z-index: 10;">
 	<div class="container">
 		<a class="navbar-brand" href="/">
-			<span class="text-white">iForal</span>
+			<img src="https://i.imgur.com/6L325FH.png" width="100px" alt="logo" />
 		</a>
 		<button class="btn p-0 d-lg-none navbar-burger">
 			<svg width="24" height="24" fill="none" xmlns="http://www.w3.org/2000/svg">

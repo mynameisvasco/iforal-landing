@@ -7,12 +7,6 @@
 				</div>
 				<div class="col-12 col-sm-auto">
 					<a class="text-decoration-none" href="#">
-						<img class="img-fluid" src="pstls-assets/logos/twitter.svg" alt="" />
-					</a>
-					<a class="mx-7 text-decoration-none" href="#">
-						<img class="img-fluid" src="pstls-assets/logos/google.svg" alt="" />
-					</a>
-					<a class="text-decoration-none" href="#">
 						<img class="img-fluid" src="pstls-assets/logos/facebook.svg" alt="" />
 					</a>
 				</div>

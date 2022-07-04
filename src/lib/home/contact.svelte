@@ -8,33 +8,22 @@
 		<div class="row align-items-center">
 			<div class="col-12 col-md-6 mb-12 mb-md-0">
 				<div class="mw-md">
-					<h3 class="mb-6 text-danger font-heading">Entre em contacto connosco</h3>
-					<h2 class="display-4 lh-sm font-heading">Há alguma questão à qual possamos responder?</h2>
+					<h3 class="display-4 lh-sm font-heading">Entre em contacto connosco</h3>
 				</div>
 			</div>
 			<div class="col-12 col-md-6" style="z-index: 200">
 				<div class="row">
-					<div class="col-12 col-md-6 mb-12">
-						<p class="text-muted mb-0">E-mail</p>
+					<div class="col-12 mb-12">
+						<h4 class="display-6 font-heading">Email</h4>
 						<a class="text-decoration-none text-dark" href="mailto:contacto@iforal.pt">
-							contacto@iforal.pt
+							iforal@letras.ulisboa.pt
 						</a>
 					</div>
-					<div class="col-12 col-md-6 mb-12">
-						<p class="text-muted mb-0">Telefone</p>
-						<p class="mb-0">255 696 123</p>
-					</div>
-					<div class="col-12 col-md-6">
-						<p class="text-muted mb-2">Socials</p>
+					<div class="col-12">
+						<h4 class="display-6 font-heading">Redes Sociais</h4>
 						<div class="d-flex">
 							<a class="text-decoration-none" href="#">
 								<img src="pstls-assets/images/contacts/facebook.png" alt="" />
-							</a>
-							<a class="text-decoration-none" href="#">
-								<img src="pstls-assets/images/contacts/twitter.png" alt="" />
-							</a>
-							<a class="text-decoration-none" href="#">
-								<img src="pstls-assets/images/contacts/google.png" alt="" />
 							</a>
 						</div>
 					</div>

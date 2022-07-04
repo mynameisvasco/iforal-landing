@@ -23,13 +23,13 @@
 		<img
 			class="img-fluid mx-auto d-block"
 			style="max-width:400px;"
-			src="https://i.imgur.com/T0nHfe7.jpg"
+			src="https://i.imgur.com/UY72zU1.png"
 			alt=""
 		/>
 		<img
 			class="img-fluid mx-auto d-block mt-8"
 			style="max-width: 300px"
-			src="https://i.imgur.com/VS8Ag9w.jpg"
+			src="https://i.imgur.com/OiWitFO.png"
 			alt=""
 		/>
 		<div
@@ -46,11 +46,10 @@
 			<div class="p-32" />
 		</div>
 		<img
-			class="img-fluid mx-auto d-block mt-8 mt-md-0"
-			src="https://i.imgur.com/SBsMj44.jpg"
+			class="img-fluid mx-auto d-block pt-32 mt-8 mt-md-0"
+			src="https://i.imgur.com/lUNxMBp.png"
 			alt=""
 		/>
-		<img class="img-fluid mx-auto d-block mt-8" src="https://i.imgur.com/PXX0f9u.jpg	" alt="" />
 		<div
 			class="d-none d-xl-block d-flex justify-content-center bg-dark p-1 mt-8 position-absolute bottom-0 mb-n52"
 		>

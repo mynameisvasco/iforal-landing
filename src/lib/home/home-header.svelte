@@ -11,7 +11,7 @@
 		alt=""
 	/>
 	<Navbar />
-	<div class="container mt-12">
+	<div class="container mt-12 pb-24">
 		<div class="row">
 			<Hero />
 		</div>

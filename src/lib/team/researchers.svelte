@@ -2,21 +2,15 @@
 	import Face from './face.svelte';
 </script>
 
-<div class="position-relative ">
+<div class="position-relative">
 	<div class="row align-items-md-center">
 		<div class="col-12 col-md-5 mb-6 mb-md-0">
 			<h1 class="mb-0 lh-sm font-heading">Investigadores</h1>
 		</div>
-		<div class="col-12 col-md-7">
-			<p class="mb-0 lh-lg">
-				If you have ever wondered how to develop your brand, this is the place for you. Take a big
-				step forward in growing your business with this great tool.
-			</p>
-		</div>
 	</div>
 </div>
 <div class="row mt-20 mt-xl-24">
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Adelaide Costa"
 			description="Universidade Aberta"
@@ -44,7 +38,7 @@
 			Extremadura Leonesa (séculos XIII - XVI)].
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Amélia Aguiar Andrade"
 			link="https://www.cienciavitae.pt/portal/651F-6189-32F3"
@@ -65,12 +59,17 @@
 			doutoramento e de três dissertações de mestrado.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
-		<Face name="Bernardo Sá Nogueira" link="" description="None" image="">
+	<div class="col-4 mb-14">
+		<Face
+			name="Bernardo Sá Nogueira"
+			link=""
+			description="None"
+			image="https://i.imgur.com/UY72zU1.png"
+		>
 			Bernardo Sá Nogueira
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Cristiana Cunha"
 			link="https://sigarra.up.pt/flup/pt/func_geral.formview?p_codigo=215540"
@@ -93,7 +92,7 @@
 			vários projetos nacionais e internacionais.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Elsa Pereira"
 			link="http://www.clul.ulisboa.pt/en/pessoa/epereira"
@@ -112,8 +111,13 @@
 			obras de João Penha (1839-1919), além de vários artigos em revistas académicas internacionais.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
-		<Face name="Esperança Cadeira" link="" description="None" image="None">
+	<div class="col-4 mb-14">
+		<Face
+			name="Esperança Cadeira"
+			link=""
+			description="None"
+			image="https://i.imgur.com/UY72zU1.png"
+		>
 			Esperança Cardeira é professora associada da Faculdade de Letras da Universidade de Lisboa,
 			investigadora e membro da direção do Centro de Linguística da Universidade de Lisboa. É autora
 			dos livros Entre o Português Antigo e o Português Clássico (2005), O Essencial sobre a
@@ -123,7 +127,7 @@
 			Histórica, Crítica Textual, Lexicologia e Lexicografia e Onomástico.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Fernando Brissos"
 			link="https://www.cienciavitae.pt/portal/en/3317-E6BB-50BB"
@@ -151,21 +155,32 @@
 			por convite em sete países.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
-		<Face name="Hermanegildo Fernande" link="" description="None" image="None">
-			Hermanegildo Fernandes</Face
+	<div class="col-4 mb-14">
+		<Face
+			name="Hermenegildo Fernandes​"
+			link=""
+			description="None"
+			image="https://i.imgur.com/UY72zU1.png"
+		>
+			Hermenegildo Fernandes​
+		</Face>
+	</div>
+	<div class="col-4 mb-14">
+		<Face name="Hermínia Vilar" link="" description="None" image="https://i.imgur.com/UY72zU1.png"
+			>Hermínia Vilar</Face
 		>
 	</div>
-	<div class="col-3 mb-14">
-		<Face name="Hermínia Vilar" link="" description="None" image="None">Hermínia Vilar</Face>
+	<div class="col-4 mb-14">
+		<Face name="Ivo Castro" link="" description="None" image="https://i.imgur.com/UY72zU1.png"
+			>Ivo Castro</Face
+		>
 	</div>
-	<div class="col-3 mb-14">
-		<Face name="Ivo Castro" link="" description="None" image="None">Ivo Castro</Face>
+	<div class="col-4 mb-14">
+		<Face name="Joana Gomes" link="" description="" image="https://i.imgur.com/UY72zU1.png"
+			>Joana Gomes</Face
+		>
 	</div>
-	<div class="col-3 mb-14">
-		<Face name="Joana Gomes" link="" description="" image="None">Joana Gomes</Face>
-	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Joana Veiga"
 			link="https://www.cienciavitae.pt/pt/7E19-524E-913E"
@@ -179,15 +194,28 @@
 			Centro de Estudos Clássicos.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
-		<Face name="João Paulo Silvestre" link="" description="None" image="None">
-			João Paulo Silvestre
+	<div class="col-4 mb-14">
+		<Face
+			name="João Paulo Silvestre"
+			link="https://www.cienciavitae.pt/portal/E719-FE07-D63F"
+			description="Centro de Línguas, Literaturas e Culturas / Departamento de Línguas e Culturas da Universidade de Aveiro			"
+			image="https://i.imgur.com/UY72zU1.png"
+		>
+			Professor Auxiliar em regime laboral na Universidade de Aveiro. Estudou Português e Línguas
+			Clássicas na Universidade de Aveiro, onde obteve o doutoramento em Linguística. Na tese
+			estudou o início da lexicografia moderna do Português (século XVIII), com especial atenção
+			sobre as influências devidas ao contacto interlinguístico. Desenvolveu a investigação de
+			pós-doutoramento na Universidade de Lisboa, sobre história da linguística em Portugal, onde
+			também ensinou lexicologia, morfologia e lexicografia. Participou nos projetos Corpus
+			Lexicográfico do Português e edição do Dicionário de Regionalismos e Arcaísmos.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
-		<Face name="José Rafael" link="" image="" description="">José Rafael</Face>
+	<div class="col-4 mb-14">
+		<Face name="José Rafael" link="" image="https://i.imgur.com/UY72zU1.png" description="">
+			José Rafael
+		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Manuela Santos Silva"
 			link="https://lisboa.academia.edu/ManuelaSANTOSSILVA"
@@ -211,7 +239,7 @@
 			Monarchy. Oxon, Reino Unido: Routledge (A). 2020.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Maria Helena da Cruz Coelho"
 			link="https://www.cienciavitae.pt/portal/8112-FE8A-FA4A"
@@ -240,7 +268,7 @@
 			da Ordem do Infante D. Henrique (2011).
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Maria João Branco"
 			link="https://www.fcsh.unl.pt/faculdade/docentes/mjbranco/"
@@ -267,7 +295,7 @@
 			Estudos Medievais. É investigadora integrada do Instituto de Estudos Medievais da FCSH/UNL.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Mariana Leite"
 			link="https://www.cienciavitae.pt/portal/5D1F-D0DE-A65F"
@@ -287,7 +315,7 @@
 			cultura medieval portuguesa.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Monica Castillo Lluch"
 			link="https://www.unil.ch/esp/monicacastillolluch"
@@ -313,7 +341,7 @@
 			manuscritos conservados do Fuero Juzgo e a editar o ms. BNE Vitr. 17-10.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Osvaldo Pacheco"
 			link="https://www.ua.pt/pt/p/10313442"
@@ -331,7 +359,7 @@
 			learning.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Ricardo Seabra"
 			link="https://www.cienciavitae.pt/portal/FF12-1999-F7BD "
@@ -358,7 +386,7 @@
 			sociedade? Oficiais públicos da escrita no Norte de Portugal na Idade Média”.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Rui Pedro Neves"
 			link="https://www.cienciavitae.pt//pt/7018-D576-5909"
@@ -378,7 +406,7 @@
 			revisores da Herança – Revista de História, Património e Cultura.
 		</Face>
 	</div>
-	<div class="col-3 mb-14">
+	<div class="col-4 mb-14">
 		<Face
 			name="Vasco Sousa"
 			link="https://github.com/mynameisvasco"

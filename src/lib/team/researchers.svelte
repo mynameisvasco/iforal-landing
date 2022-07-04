@@ -74,7 +74,7 @@
 			name="Cristiana Cunha"
 			link="https://sigarra.up.pt/flup/pt/func_geral.formview?p_codigo=215540"
 			description="Faculdade de Letras da Universidade do Porto / Centro de Investigação Transdisciplinar “Cultura, Espaço, Memória” (CITCEM)"
-			image="https://i.imgur.com/JAluanq.jpg"
+			image="https://i.imgur.com/NGsnjDB.png"
 		>
 			Maria Cristiana Cunha é professora associada com agregação da Faculdade de Letras da
 			Universidade do Porto, investigadora integrada do Centro de Investigação Transdisciplinar
@@ -411,7 +411,7 @@
 			name="Vasco Sousa"
 			link="https://github.com/mynameisvasco"
 			description="Bolseiro, Universidade de Aveiro"
-			image="https://avatars.githubusercontent.com/u/31479521?v=4"
+			image="https://i.imgur.com/xqKaumt.png"
 		>
 			Vasco Sousa é licenciado em Engenharia de Computadores e Telemática pela Universidade de
 			Aveiro e mestrando em Engenharia Informática na mesma instituição.

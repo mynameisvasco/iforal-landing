@@ -15,7 +15,7 @@
 			name="Filipa Roldão"
 			description="Centro de História da Universidade de Lisboa"
 			link="https://www.cienciavitae.pt/1F12-45E5-8629"
-			image="https://i.imgur.com/Ka0WsHN.jpg"
+			image="https://i.imgur.com/wJS5mJF.png"
 		>
 			Filipa Roldão é licenciada em História (2003) e mestre em Paleografia e Diplomática (2007)
 			pela Universidade de Lisboa. Em 2011, obteve o seu doutoramento em História Medieval, pela

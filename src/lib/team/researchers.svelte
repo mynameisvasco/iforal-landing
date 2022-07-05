@@ -43,7 +43,7 @@
 			name="Amélia Aguiar Andrade"
 			link="https://www.cienciavitae.pt/portal/651F-6189-32F3"
 			description="Faculdade de Ciências Sociais e Humanas da Universidade NOVA de Lisboa / Instituto de Estudos Medievais"
-			image="https://i.imgur.com/QSN4wJ8.jpg"
+			image="https://i.imgur.com/VmJfkni.jpeg"
 		>
 			Amélia Aguiar Andrade é professora catedrática de História Medieval na Faculdade de Ciências
 			Sociais e Humanas da Universidade Nova de Lisboa. As suas áreas de investigação são a história

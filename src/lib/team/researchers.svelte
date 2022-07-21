@@ -61,22 +61,22 @@
 	</div>
 	<div class="col-4 mb-14">
 		<Face
-			name="Bernardo Sá Nogueira"
+			name="Bernardo de Sá-Nogueira"
 			link=""
 			description="None"
 			image="https://i.imgur.com/UY72zU1.png"
 		>
-			Bernardo Sá Nogueira
+			Bernardo de Sá-Nogueira
 		</Face>
 	</div>
 	<div class="col-4 mb-14">
 		<Face
-			name="Cristiana Cunha"
+			name="Maria Cristina Cunha"
 			link="https://sigarra.up.pt/flup/pt/func_geral.formview?p_codigo=215540"
 			description="Faculdade de Letras da Universidade do Porto / Centro de Investigação Transdisciplinar “Cultura, Espaço, Memória” (CITCEM)"
 			image="https://i.imgur.com/NGsnjDB.png"
 		>
-			Maria Cristiana Cunha é professora associada com agregação da Faculdade de Letras da
+			Maria Cristina Cunha é professora associada com agregação da Faculdade de Letras da
 			Universidade do Porto, investigadora integrada do Centro de Investigação Transdisciplinar
 			“Cultura, Espaço, Memória” (CITCEM) e colaboradora do Centro de Estudos de História Religiosa
 			da Universidade Católica Portuguesa (CEHR); é ainda vice-presidente da Comission International

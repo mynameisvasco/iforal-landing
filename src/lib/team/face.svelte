@@ -19,7 +19,9 @@
 				<h3 class="lh-sm font-heading">Sobre</h3>
 				<button class="btn" on:click={() => (showAbout = false)}>X</button>
 			</div>
-			<slot />
+			<p style="text-align: justify;">
+				<slot />
+			</p>
 		</div>
 	</div>
 {/if}

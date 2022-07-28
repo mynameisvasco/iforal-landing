@@ -113,7 +113,7 @@
 	</div>
 	<div class="col-4 mb-14">
 		<Face
-			name="Esperança Cadeira"
+			name="Esperança Cardeira"
 			link=""
 			description="None"
 			image="https://i.imgur.com/UY72zU1.png"

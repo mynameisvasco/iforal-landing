@@ -1,12 +1,15 @@
 <div class="col-12 col-lg-5">
 	<div class="pt-lg-20">
-		<h1 class="mb-0 lh-sm mb-7 text-white">
+		<h1 class="mb-0 lh-sm mb-7">
 			<span>Forais</span>
-			<span class="text-danger">medievais</span>
+			<span class="text-danger-dark">medievais</span>
 			<span>portugueses</span>
 		</h1>
-		<p class="mb-0 lh-lg mw-md-md mb-6 text-muted">
-			Uma perspetiva histórica e linguística na era digital, PTDC/HAR-HIS/5065/2020 (2021-2024)
+		<p class="mb-0 lh-lg mw-md-md mb-6 text-muted" style="font-size: 18px;">
+			Uma perspetiva histórica e linguística na era digital<br />
+			<span class="text-muted" style="font-size: 14px;">
+				Ref. ª PTDC/HAR-HIS/5065/2020 (2021-2024)
+			</span>
 		</p>
 		<a class="btn btn-danger-dark d-block d-md-inline-block" href="#about">Sobre o projeto</a>
 	</div>
@@ -16,7 +19,7 @@
 >
 	<div class="me-lg-8">
 		<div class="d-none d-xl-block col-12 d-flex justify-content-center">
-			<div class="bg-dark p-1 position-absolute top-0 mt-n32">
+			<div class="bg-white p-1 position-absolute top-0 mt-n32">
 				<div class="p-32" />
 			</div>
 		</div>
@@ -33,14 +36,14 @@
 			alt=""
 		/>
 		<div
-			class="d-none d-xl-block d-flex justify-content-center bg-dark p-1 mt-7 position-absolute bottom-0 mb-n52"
+			class="d-none d-xl-block d-flex justify-content-center bg-white p-1 mt-7 position-absolute bottom-0 mb-n52"
 		>
 			<div class="p-32" />
 		</div>
 	</div>
 	<div>
 		<div
-			class="d-none d-xl-block d-flex justify-content-center bg-dark p-1 position-absolute top-0 mt-n32"
+			class="d-none d-xl-block d-flex justify-content-center bg-white p-1 position-absolute top-0 mt-n32"
 			style="z-index: -1;"
 		>
 			<div class="p-32" />
@@ -51,7 +54,7 @@
 			alt=""
 		/>
 		<div
-			class="d-none d-xl-block d-flex justify-content-center bg-dark p-1 mt-8 position-absolute bottom-0 mb-n52"
+			class="d-none d-xl-block d-flex justify-content-center bg-white p-1 mt-8 position-absolute bottom-0 mb-n52"
 		>
 			<div class="p-32" />
 		</div>

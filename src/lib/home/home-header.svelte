@@ -4,7 +4,7 @@
 	import Hero from './hero.svelte';
 </script>
 
-<section class="position-relative pb-24 position-relative overflow-hidden bg-dark">
+<section class="position-relative pb-24 position-relative overflow-hidden bg-white">
 	<img
 		class="position-absolute top-0 end-0 h-100"
 		src="pstls-assets/images/headers/shadow-right.png"

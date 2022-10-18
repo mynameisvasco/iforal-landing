@@ -96,7 +96,7 @@
 		<Face
 			name="Elsa Pereira"
 			link="http://www.clul.ulisboa.pt/en/pessoa/epereira"
-			description="Universidade de Lisboa, Faculdade de Letras/ Centro de Linguística da Universidade de Lisboa (CLUL)"
+			description="Faculdade de Letras da Universidade de Lisboa / Centro de Linguística da Universidade de Lisboa (CLUL)"
 			image="https://i.imgur.com/MOoNuhc.jpg"
 		>
 			Elsa Pereira é investigadora contratada pela Faculdade de Letras da Universidade de Lisboa
@@ -115,7 +115,7 @@
 		<Face
 			name="Esperança Cardeira"
 			link=""
-			description="None"
+			description="Faculdade de Letras da Universidade de Lisboa"
 			image="https://i.imgur.com/UY72zU1.png"
 		>
 			Esperança Cardeira é professora associada da Faculdade de Letras da Universidade de Lisboa,
@@ -219,7 +219,7 @@
 		<Face
 			name="Manuela Santos Silva"
 			link="https://lisboa.academia.edu/ManuelaSANTOSSILVA"
-			description="Universidade de Lisboa – Faculdade de Letras"
+			description="Faculdade de Letras da Universidade de Lisboa"
 			image="https://i.imgur.com/1As4o3r.jpg"
 		>
 			Manuela Santos Silva, doutorou-se em História Medieval em 7 de abril de 1997, na Faculdade de
@@ -244,7 +244,7 @@
 			name="Maria Helena da Cruz Coelho"
 			link="https://www.cienciavitae.pt/portal/8112-FE8A-FA4A"
 			image="https://i.imgur.com/I8FkMXU.jpg"
-			description="Professora aposentada da Faculdade de Letras da Universidade de Coimbra; Investigadora Integrada do Centro de História da Sociedade e da Cultura -FLUC"
+			description="Faculdade de Letras da Universidade de Coimbra / Centro de História da Sociedade e da Cultura"
 		>
 			Maria Helena Da Cruz Coelho é professora emérita titular aposentada da Universidade de
 			Coimbra. É membro de várias Academias e Comissões em Portugal (Academia de História, Academia
@@ -299,7 +299,7 @@
 		<Face
 			name="Mariana Leite"
 			link="https://www.cienciavitae.pt/portal/5D1F-D0DE-A65F"
-			description="Instituto de Filosofia / Universidade do Porto"
+			description="Instituto de Filosofia da Universidade do Porto"
 			image="https://i.imgur.com/dbcZEM6.png"
 		>
 			Doutorada em Literaturas e Culturas Românicas pela Universidade do Porto em 2013, com uma tese
@@ -308,8 +308,8 @@
 			Portugal: presenças, transmissão e tradução". Lecionou língua e literatura portuguesas na
 			Ecole Normale Supérieure de Lyon (2014-2016), na Universität Zürich (2020-2021), e foi
 			assistente de Literatura Espanhola Medieval com o Prof. Doutor José Carlos Miranda, na
-			Universidade Porto (2017-2019). Colabora também no projecto MELE - Da Memória Escrita à
-			Leitura do Espaço. A sua investigação incide sobre estudo e edição de textos, com particular
+			Universidade Porto (2017-2019). Colabora também no projeto MELE - Da Memória Escrita à Leitura
+			do Espaço. A sua investigação incide sobre estudo e edição de textos, com particular
 			incidência sobre a historiografia universal medieval, tendo nos últimos anos dedicado especial
 			atenção à presença de fontes historiográficas universais (matéria bíblica e clássica) na
 			cultura medieval portuguesa.
@@ -320,7 +320,7 @@
 			name="Monica Castillo Lluch"
 			link="https://www.unil.ch/esp/monicacastillolluch"
 			description="Université de Lausanne"
-			image="https://i.imgur.com/q75GKtO.jpg"
+			image="https://i.imgur.com/fTRgkMM.jpg"
 		>
 			Mónica Castillo Lluch estudou Filologia Espanhola na Universidade Autónoma de Madrid e
 			defendeu a sua tese de doutoramento em 1996 sobre La posición del pronombre átono en la prosa
@@ -364,7 +364,7 @@
 			name="Ricardo Seabra"
 			link="https://www.cienciavitae.pt/portal/FF12-1999-F7BD "
 			description="Universidade Autónoma de Lisboa/CICH; CITCEM"
-			image="https://i.imgur.com/m5mjaLP.jpg"
+			image="https://i.imgur.com/D7MZSZ9.jpg"
 		>
 			Ricardo Seabra (Porto, 1988) licenciou-se em História pela Faculdade de Letras da Universidade
 			do Porto em 2010, é mestre em História Medieval e do Renascimento (2012), e doutorado em
@@ -390,7 +390,7 @@
 		<Face
 			name="Rui Pedro Neves"
 			link="https://www.cienciavitae.pt//pt/7018-D576-5909"
-			description="Bolseiro, Centro de História da Universidade de Lisboa (CH-ULisboa) / Centro de História da Sociedade e da Cultura (CHSC-UCoimbra)"
+			description="Bolseiro, Centro de História da Universidade de Lisboa / Centro de História da Sociedade e da Cultura (Universidade de Coimbra)"
 			image="https://i.imgur.com/kgtQ9gN.jpg"
 		>
 			Rui Pedro Neves é licenciado em História pela Faculdade de Letras da Universidade de Coimbra e
@@ -410,8 +410,8 @@
 		<Face
 			name="Vasco Sousa"
 			link="https://github.com/mynameisvasco"
-			description="Bolseiro, Universidade de Aveiro"
-			image="https://i.imgur.com/xqKaumt.png"
+			description="Bolseiro, Universidade de Aveiro / IEETA"
+			image="https://i.imgur.com/QyBHziY.jpg"
 		>
 			Vasco Sousa é licenciado em Engenharia de Computadores e Telemática pela Universidade de
 			Aveiro e mestrando em Engenharia Informática na mesma instituição.

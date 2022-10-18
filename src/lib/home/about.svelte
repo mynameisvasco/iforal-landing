@@ -5,17 +5,17 @@
 				<div class="mt-16 mt-md-0 mw-sm mw-md-lg mx-uto me-xl-0 ">
 					<h2 class="mb-9 display-5 lh-sm font-heading">Sobre o projeto</h2>
 					<p class=" lh-lg">
-						Ao longo dos séculos XII e XIII, a construção do reino de Portugal centrada na definição
-						de fronteiras territoriais, na delimitação de poderes e na estabilização sócio-económica
-						dos seus habitantes, conheceu a contratualização escrita de relações jurídicas de longa
-						vigência. Reis e senhores laicos ou eclesiásticos puserem por escrito a sua relação com
-						as comunidades e definiram normas de convivência entre habitantes, como os seus direitos
-						e deveres: esses escritos chamavam-se forais.
+						Ao longo dos séculos XII e XIII, a construção do reino de Portugal, centrada na
+						definição de fronteiras territoriais, na delimitação de poderes e na estabilização
+						sócio-económica dos seus habitantes, conheceu a contratualização escrita de relações
+						jurídicas de longa vigência. Reis e senhores laicos ou eclesiásticos puseram por escrito
+						a sua relação com as comunidades e definiram normas de convivência entre habitantes,
+						como os seus direitos e deveres: esses escritos chamavam-se forais.
 					</p>
 					<p class="lh-lg">
-						O projecto iForal visa o estudo histórico-linguístico das cartas de foral outorgadas
-						pelo poder régio até 1279, bem como os seus testemunhos latinos e vernaculares
-						produzidos até ao final do século XV.
+						O projeto iForal visa o estudo histórico-linguístico das cartas de foral outorgadas pelo
+						poder régio até 1279, bem como os seus testemunhos latinos e vernaculares produzidos até
+						ao final do século XV.
 					</p>
 					<p class="mb-14 lh-lg">
 						A investigação proposta assenta numa ideia-chave, a interdisciplinaridade. A História e
@@ -88,9 +88,9 @@
 						antepassados e a sua relação com os poderes instituídos, sobretudo com o rei, em
 						questões de natureza política e fiscal, de justiça e de atividades económicas. Mais,
 						estes documentos permitem ainda uma aproximação aos recursos naturais disponíveis na
-						comunidade e à sua exploração, e à paisagem e à topografia, ainda reconhecíveis hoje
-						pelas comunidades. Com este projeto, promove-se a salvaguarda de um dos mais antigos
-						exemplos de património escrito dos poderes locais e também do Reino português.
+						comunidade e à sua exploração, assim como à paisagem e à topografia, ainda reconhecíveis
+						hoje pelas comunidades. Com este projeto, promove-se a salvaguarda de um dos mais
+						antigos exemplos de património escrito dos poderes locais e também do Reino português.
 					</p>
 				</div>
 			</div>

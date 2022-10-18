@@ -12,7 +12,7 @@
 		<div class="position-relative">
 			<div class="row align-items-md-center">
 				<div class="col-12 col-md-5 mb-6 mb-md-0">
-					<h1 class="mb-0 lh-sm font-heading">Notícias</h1>
+					<h1 class="mb-0 lh-sm font-heading">Agenda</h1>
 				</div>
 			</div>
 		</div>
@@ -45,11 +45,11 @@
 			</NewsItem>
 			<NewsItem title="2022/03/18" image="/pstls-assets/images/features/features-6-room.png">
 				iDebate (I): O que é um foral?, CH-ULisboa, Lisboa (Portugal). Formato misto (presencial e
-				online). Sessão interna do projecto, sem público; está em preparação a edição do debate.
+				online). Sessão interna do projeto, sem público; está em preparação a edição do debate.
 				Maria Helena da Cruz Coelho, Maria João Branco, Manuela Santos Silva
 			</NewsItem>
 			<NewsItem title="2022/03/16" image="/pstls-assets/images/features/features-6-room.png">
-				Apresentação em Jornada Aberta III. Projecto iForal, dirigido a alunos do 2º e 3 ciclo do
+				Apresentação em Jornada Aberta III. Projeto iForal, dirigido a alunos do 2º e 3 ciclo do
 				Instituto de Engenharia Eletrónica e Informática da U. Aveiro (Portugal). Presencial João
 				Paulo Silvestre
 			</NewsItem>
@@ -74,7 +74,7 @@
 				e Joana Serafim
 			</NewsItem>
 			<NewsItem title="2021/07/07" image="/pstls-assets/images/features/features-6-room.png">
-				Apresentação em Jornada Aberta II. Projecto iForal, dirigido a alunos do 2º e 3º ciclo do
+				Apresentação em Jornada Aberta II. Projeto iForal, dirigido a alunos do 2º e 3º ciclo do
 				Instituto de Engenharia Eletrónica e Informática da U. Aveiro (Portugal). Presencial João
 				Paulo Silvestre
 			</NewsItem>
@@ -84,7 +84,7 @@
 				Histoire. Virtual. Filipa Roldão e Joana Serafim
 			</NewsItem>
 			<NewsItem title="2021/05/28" image="/pstls-assets/images/features/features-6-room.png">
-				Apresentação em Jornada Aberta I. Projecto iForal, dirigido a alunos do 2º e 3º ciclo do
+				Apresentação em Jornada Aberta I. Projeto iForal, dirigido a alunos do 2º e 3º ciclo do
 				Instituto de Engenharia Eletrónica e Informática da U. Aveiro (Portugal). Presencial Filipa
 				Roldão e Joana Serafim
 			</NewsItem>

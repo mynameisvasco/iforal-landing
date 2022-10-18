@@ -37,7 +37,7 @@
 			<ul class="nav flex-column">
 				<NavbarMobileItem href="/">Home</NavbarMobileItem>
 				<NavbarMobileItem href="/team">Equipa</NavbarMobileItem>
-				<NavbarMobileItem href="/news">Notícias</NavbarMobileItem>
+				<NavbarMobileItem href="/news">Agenda</NavbarMobileItem>
 				<NavbarMobileItem href="/posts">Publicações</NavbarMobileItem>
 			</ul>
 		</div>

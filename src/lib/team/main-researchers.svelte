@@ -15,7 +15,7 @@
 			name="Filipa Roldão"
 			description="Centro de História da Universidade de Lisboa"
 			link="https://www.cienciavitae.pt/1F12-45E5-8629"
-			image="https://i.imgur.com/wJS5mJF.png"
+			image="https://i.imgur.com/gYuWrF5.png"
 		>
 			Filipa Roldão é licenciada em História (2003) e mestre em Paleografia e Diplomática (2007)
 			pela Universidade de Lisboa. Em 2011, obteve o seu doutoramento em História Medieval, pela
@@ -39,9 +39,9 @@
 	<div class="col-6 mb-14">
 		<Face
 			name="Joana Serafim"
-			link="https://www.cienciavitae.pt/portal/3311-416A-8567 "
+			link="https://www.cienciavitae.pt/portal/3311-416A-8567"
 			description="Universidade de Zurique / Centro de Linguística da Universidade de Lisboa"
-			image="https://i.imgur.com/DBKFGoq.png"
+			image="https://i.imgur.com/ZGmIJwK.png"
 		>
 			Joana Serafim é licenciada em Línguas e Literaturas Clássicas pela Faculdade de Letras da
 			Universidade de Lisboa e doutorada em Literatura pela Universidade de Aveiro com a tese

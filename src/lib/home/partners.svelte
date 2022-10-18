@@ -14,7 +14,7 @@
 					</div>
 				</div>
 				<div class="col-6">
-					<p class="lh-lg text-center text-muted">Instituições Participantes</p>
+					<p class="lh-lg text-center text-muted">Instituições participantes</p>
 					<div class="row align-items-center">
 						<div class="col-12 text-center mb-md-0">
 							<img
@@ -31,7 +31,7 @@
 	</div>
 	<div class="pt-12">
 		<div class="container">
-			<p class="lh-lg text-center text-muted">Parceiros Principais</p>
+			<p class="lh-lg text-center text-muted">Parceiros principais</p>
 			<div class="row align-items-center">
 				<div class="col-12 text-center mb-md-0">
 					<img

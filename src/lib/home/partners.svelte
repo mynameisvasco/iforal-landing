@@ -1,9 +1,15 @@
+<script>
+	import { language } from '$lib/language';
+</script>
+
 <section class="position-relative">
 	<div class="pt-12 border-bottom pb-24">
 		<div class="container">
 			<div class="row">
 				<div class="col-6">
-					<p class="lh-lg text-center text-muted">Instituição de acolhimento</p>
+					<p class="lh-lg text-center text-muted">
+						{$language === 'pt' ? 'Instituições de acolhimento' : 'Host institutions'}
+					</p>
 					<div class="col-12 text-center mb-md-0">
 						<img
 							class="img-fluid d-block "
@@ -14,7 +20,9 @@
 					</div>
 				</div>
 				<div class="col-6">
-					<p class="lh-lg text-center text-muted">Instituições participantes</p>
+					<p class="lh-lg text-center text-muted">
+						{$language === 'pt' ? 'Instituições participantes' : 'Participating institutions'}
+					</p>
 					<div class="row align-items-center">
 						<div class="col-12 text-center mb-md-0">
 							<img
@@ -31,7 +39,9 @@
 	</div>
 	<div class="pt-12">
 		<div class="container">
-			<p class="lh-lg text-center text-muted">Parceiros principais</p>
+			<p class="lh-lg text-center text-muted">
+				{$language === 'pt' ? 'Parceiros principais' : 'Main partners'}
+			</p>
 			<div class="row align-items-center">
 				<div class="col-12 text-center mb-md-0">
 					<img

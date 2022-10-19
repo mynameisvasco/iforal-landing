@@ -1,4 +1,5 @@
 <script>
+	import { language } from '$lib/language';
 	import NavbarItem from './navbar-item.svelte';
 	import NavbarLanguage from './navbar-language.svelte';
 </script>
@@ -21,30 +22,21 @@
 		<div class="collapse navbar-collapse">
 			<ul class="navbar-nav ms-1 mb-2 mb-lg-0">
 				<li class="nav-item">
-					<NavbarItem href="/">Home</NavbarItem>
+					<NavbarItem href="/">{$language === 'pt' ? 'Home' : 'Home'}</NavbarItem>
 				</li>
 				<li class="nav-item">
-					<NavbarItem href="/team">Equipa</NavbarItem>
+					<NavbarItem href="/team">{$language === 'pt' ? 'Equipa' : 'Team'}</NavbarItem>
 				</li>
 				<li class="nav-item">
-					<NavbarItem href="/news">Agenda</NavbarItem>
+					<NavbarItem href="/news">{$language === 'pt' ? 'Agenda' : 'Calendar'}</NavbarItem>
 				</li>
 				<li class="nav-item">
-					<NavbarItem href="/posts">Publicações</NavbarItem>
+					<NavbarItem href="/posts"
+						>{$language === 'pt' ? 'Publicações' : 'Publications'}</NavbarItem
+					>
 				</li>
 			</ul>
-			<div class="ms-auto">
-				<div class="input-group" style="background-color: #2C2C2C; z-index: 10">
-					<input
-						style="z-index: 10;"
-						class="form-control text-white bg-transparent border-0"
-						placeholder="Pesquisar no site..."
-					/>
-					<button class="btn" type="button">
-						<img src="pstls-assets/images/navigations/search-light.svg" alt="" />
-					</button>
-				</div>
-			</div>
+			<div class="ms-auto" />
 			<div>
 				<NavbarLanguage />
 			</div>

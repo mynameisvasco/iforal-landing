@@ -1,6 +1,8 @@
 <script>
+	import { language } from '$lib/language';
 	import NavbarMobile from '$lib/navbar/navbar-mobile.svelte';
 	import Navbar from '$lib/navbar/navbar.svelte';
+	import HeroEn from './hero-en.svelte';
 	import Hero from './hero.svelte';
 </script>
 
@@ -13,7 +15,11 @@
 	<Navbar />
 	<div class="container mt-12 pb-24">
 		<div class="row">
-			<Hero />
+			{#if $language === 'pt'}
+				<Hero />
+			{:else}
+				<HeroEn />
+			{/if}
 		</div>
 	</div>
 	<NavbarMobile />

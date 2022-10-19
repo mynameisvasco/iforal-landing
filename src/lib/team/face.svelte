@@ -1,8 +1,12 @@
 <script lang="ts">
+	import { language } from '$lib/language';
+
 	export let name: string;
 	export let description: string;
 	export let image: string;
 	export let link: string;
+	export let topics: string | undefined = undefined;
+	export let topicsEn: string | undefined = undefined;
 
 	let showAbout = false;
 </script>
@@ -13,15 +17,30 @@
 	>
 		<div
 			class="bg-white p-8"
-			style="width: 100%; height:100%; max-width: 720px; max-height: 600px; margin:auto; overflow-y: auto;"
+			style="width: 100%; height:100%; max-width: 720px; max-height: 600px; margin:auto; overflow-y: auto; border-radius: 5px;"
 		>
 			<div style="display: flex; justify-content: space-between;" class="mb-4">
-				<h3 class="lh-sm font-heading">Sobre</h3>
+				<h3 class="lh-sm font-heading">
+					{#if $language === 'pt'}
+						Sobre
+					{:else}
+						About
+					{/if}
+				</h3>
 				<button class="btn" on:click={() => (showAbout = false)}>X</button>
 			</div>
-			<p style="text-align: justify;">
-				<slot />
+			<p style="text-align: justify; margin-top:14px;">
+				{#if $language === 'pt'}
+					<slot name="pt" />
+				{:else}
+					<slot name="en" />
+				{/if}
 			</p>
+			{#if $language === 'pt'}
+				<span class="text-muted">{topics}</span>
+			{:else}
+				<span class="text-muted">{topicsEn}</span>
+			{/if}
 		</div>
 	</div>
 {/if}
@@ -45,7 +64,11 @@
 			style="color:black; margin-right:10px; cursor:pointer; text-decoration: underline;"
 			on:click={() => (showAbout = true)}
 		>
-			Sobre
+			{#if $language === 'pt'}
+				Sobre
+			{:else}
+				About
+			{/if}
 		</span>
 		<a style="color:black;" href={link} target="_blank">CV</a>
 	</div>
